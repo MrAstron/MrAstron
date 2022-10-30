@@ -10,7 +10,7 @@ and **C++/Qt Developer** @ **INDICOM LLC** (:ru:)
 
 ### 📜 Experience
 
-`2022-03 – PRESENT` — **C++/Qt developer** @ **INDICOM LLC** (:ru:)
+`2022-03 – PRESENT` — **C++/Qt Developer** @ **INDICOM LLC** (:ru:)
 
 **Responsibilities**: develop software for the inspection of trucks at customs.
 
